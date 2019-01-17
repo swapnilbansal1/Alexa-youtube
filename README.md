@@ -45,3 +45,6 @@ arn:aws:lambda:eu-west-1:175548706300:function:YouTube
 16. Move the slider at the top left so that it says "Test is enabled for this skill".
 
 That's it!
+
+
+**Special thanks to @ndg63276 for PyTube!
